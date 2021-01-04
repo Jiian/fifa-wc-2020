@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 8"
+title: "FIFA2020 Analysis"
 author: "Oh Jian Hui"
 date: "17/10/2020"
 output:
