@@ -1,5 +1,5 @@
 # FIFA2020
-Short analysis of countries' playing style in FIFA2020 with visualisations.
+Short analysis of countries' playing style in FIFA World Cup 2020 with visualisations.
 
 Exploratory data analysis on the playing style of countries who played in FIFA2020.  
 Questions including:  
